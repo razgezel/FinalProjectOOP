@@ -1,3 +1,10 @@
+1. project name
+2. project desc
+3. running instructions
+  - input
+  -  output
+4. UML
+
 # hw9
 
 Git submission instructions:
